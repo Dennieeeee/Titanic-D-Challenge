@@ -281,4 +281,3 @@ plt.subplot(122)
 sns.heatmap(df_cnf_matrix_percent, annot=True)
 
 X_train.head()
-
