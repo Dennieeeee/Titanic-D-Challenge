@@ -3,9 +3,8 @@
 """
 Created on Sun Oct  7 16:13:39 2018
 
-@author: luckycclu
+@author: Dengyuan
 """
-# Titanic Dataset Analysis done by Dennie Tan
 #import syy
 import pandas as pd
 import numpy as np
